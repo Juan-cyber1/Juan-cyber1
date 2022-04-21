@@ -1,4 +1,4 @@
-<h1>¡Hola! Soy Juan... Me encanta tenerte en mi perfil 👋</h1>
+<h1 >¡Hola! Soy Juan... Me encanta tenerte en mi perfil 👋</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Juan-cyber1/Juan-Vanegas/master/banner_jv.jpg" width="100%" title="Banner principal" alt="Texto en imagen: Front End">
@@ -21,20 +21,20 @@
     
 <h2>Algunos de mis proyectos: </h2>
 
-- <a target="_blank" href="https://corporativo.compensar.com/vivienda/banco-de-inmuebles">🔭 Banco de Inmuebles.</a>
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- <a target="_blank" href="https://corporativo.compensar.com/vivienda/banco-de-inmuebles">🏡 Banco de Inmuebles</a>: Desarrollo que permite publicar inmuebles en arrendamiento. Incluye varios filtros como tipo de inmueble, tipo de arrendatario, filtro por rango de precio, filtro por rango de área, estrato, cantidad de habitaciones, cantidad de baños, cantidad de parqueaderos, departamento donde se ubica el inmueble, ciudad y localidad, también incluye la opción de ordenar los inmuebles de acuerdo a menor o mayor precio, tiene paginación y genera URL dinámica al momento de ver información detallada del inmueble, donde cuenta con carrusel de imagenes, consumo de API de Google Maps e inmuebles relacionados. Todo el contenido de esta web se genera desde listas para que su información se genere de manera dinámica.🤩
+- <a target="_blank" href="https://corporativo.compensar.com/vivienda/tramites-vivienda">🏨 Tramites Vivienda</a>: Desarrollo con el fin de incluir información y de inmuebles en construcción. Incluye sección de glosario, el cúal filtra por rango de letras y sección de preguntas frecuentes con filtro de categoría de la pregunta. Todo el contenido de esta web se genera desde listas para que su información se genere de manera dinámica.😉
+- <a target="_blank" href="https://corporativo.compensar.com/convenios-alianzas/muevete-sobre-ruedas-2022">🚗 Feria sobre ruedas</a>: Desarrollo publicado en fechas especificas ya que es una feria virtual. Es una aplicación en la cual se publican vehículos en venta con convenio que cuenta con diferentes filtros de acuerdo al concesionario, marca, serie, precio o tipo de vehículo (Moto, Scooter, Bicicleta, etc). Por medio de la Url dinámica genera una vista detallada de cada vehículo. Todo el contenido de esta web se genera desde listas para que su información se genere de manera dinámica.🤑
+- <a target="_blank" href="https://corporativo.compensar.com/agencia-empleo/emprendimiento/vitrina-virtual">👦 Temporada educativa</a>: Desarrollo con el objetivo de publicar información de convenios con diferentes entidades educativas con descuentos. Genera información de acuerdo a la categoría de nivel educativo. Todo el contenido de esta web se genera desde listas para que su información se genere de manera dinámica.😵
+- <a target="_blank" href="https://corporativo.compensar.com/agencia-empleo/emprendimiento/vitrina-virtual">📲 Vitrina Virtual</a>: Langing de información enfocada a un marketplace.
+- <a target="_blank" href="https://corporativo.compensar.com/agencia-empleo/aws-restart">🖥️ AWS - Restart</a>: Landing de información. Convenio empresarial con Amazon Web Service. 💵
+- <a target="_blank" href="https://corporativo.compensar.com/agencia-empleo/emprendimiento-sin-rodeos">👔 Emprendimiento Sin Rodeos</a>: Landing de información. Convenio empresarial de educación. 📜
 
-  SOY PROFESIONAL GRADUADO EN INGENIERÍA DE SISTEMAS. DISEÑADOR WEB Y DESARROLLADOR FRONT-END JUNIOR CON EXPERIENCIA EN MANEJO DE SUITE ADOBE PARA DISEÑO DE MOCKUPS, UX / UI,  MAQUETACIÓN WEB EN HTML, CSS, JAVASCRIPT Y BOOTSTRAP. EXPERIENCIA BÁSICA EN DESARROLLO CON FRAMEWORKS COMO REACT.JS, VUE.JS,  Y REACT NATIVE. EXPERIENCIA EN IMPLEMENTACION DE WEB EN SHAREPOINT Y CMS WORDPRESS.
+
 </p>
 <!--
 **Juan-cyber1/Juan-cyber1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+  SOY PROFESIONAL GRADUADO EN INGENIERÍA DE SISTEMAS. DISEÑADOR WEB Y DESARROLLADOR FRONT-END JUNIOR CON EXPERIENCIA EN MANEJO DE SUITE ADOBE PARA DISEÑO DE MOCKUPS, UX / UI,  MAQUETACIÓN WEB EN HTML, CSS, JAVASCRIPT Y BOOTSTRAP. EXPERIENCIA BÁSICA EN DESARROLLO CON FRAMEWORKS COMO REACT.JS, VUE.JS,  Y REACT NATIVE. EXPERIENCIA EN IMPLEMENTACION DE WEB EN SHAREPOINT Y CMS WORDPRESS.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -46,3 +46,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+h1{
+  color:red !important;
+  }  
+  </style>
