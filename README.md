@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Juan-cyber1/Juan-Vanegas/master/banner_jv.jpg" width="100%" title="Banner principal" alt="Texto en imagen: Front End">
 </p>
 <p align="LEFT">
-👨‍🎓 Soy profesional en ingeniería de sistemas. 🥰 Me gusta el desarrollo front-end y el diseño gráfico.
+👨‍🎓 Soy profesional en ingeniería de sistemas. 🥰 Me gusta el desarrollo front-end y el diseño gráfico. Implemento con estandares de calidad en maquetación enfocado a la accesibilidad web para una navegación inclusiva para personas con algunas discapacidades.
   
 <h2>Skills:</h2>
 
